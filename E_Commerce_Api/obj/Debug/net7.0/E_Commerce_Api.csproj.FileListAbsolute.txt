@@ -69,3 +69,6 @@ C:\Users\oruc\Documents\GitHub\E_Commerce_Api\E_Commerce_Api\obj\Debug\net7.0\re
 C:\Users\oruc\Documents\GitHub\E_Commerce_Api\E_Commerce_Api\obj\Debug\net7.0\E_Commerce_Api.pdb
 C:\Users\oruc\Documents\GitHub\E_Commerce_Api\E_Commerce_Api\obj\Debug\net7.0\E_Commerce_Api.genruntimeconfig.cache
 C:\Users\oruc\Documents\GitHub\E_Commerce_Api\E_Commerce_Api\obj\Debug\net7.0\ref\E_Commerce_Api.dll
+C:\Users\oruc\Documents\GitHub\E_Commerce_Api\E_Commerce_Api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\oruc\Documents\GitHub\E_Commerce_Api\E_Commerce_Api\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\oruc\Documents\GitHub\E_Commerce_Api\E_Commerce_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
