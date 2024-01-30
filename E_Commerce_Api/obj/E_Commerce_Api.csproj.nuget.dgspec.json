@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aliyagiztar/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/E_Commerce_Api.csproj": {}
+    "/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/E_Commerce_Api.csproj": {}
   },
   "projects": {
-    "/Users/aliyagiztar/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/E_Commerce_Api.csproj": {
+    "/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/E_Commerce_Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aliyagiztar/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/E_Commerce_Api.csproj",
+        "projectUniqueName": "/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/E_Commerce_Api.csproj",
         "projectName": "E_Commerce_Api",
-        "projectPath": "/Users/aliyagiztar/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/E_Commerce_Api.csproj",
-        "packagesPath": "/Users/aliyagiztar/.nuget/packages/",
-        "outputPath": "/Users/aliyagiztar/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/obj/",
+        "projectPath": "/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/E_Commerce_Api.csproj",
+        "packagesPath": "/Users/tarikhamarat/.nuget/packages/",
+        "outputPath": "/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/aliyagiztar/.nuget/NuGet/NuGet.Config"
+          "/Users/tarikhamarat/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -40,6 +40,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.26, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.15, )"
@@ -48,9 +56,25 @@
               "target": "Package",
               "version": "[7.0.15, )"
             },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.26, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.26, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
