@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 C:\Users\oruc\Documents\GitHub\E_Commerce_Api\E_Commerce_Api\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\oruc\Documents\GitHub\E_Commerce_Api\E_Commerce_Api\bin\Debug\net7.0\appsettings.json
 C:\Users\oruc\Documents\GitHub\E_Commerce_Api\E_Commerce_Api\bin\Debug\net7.0\E_Commerce_Api.exe
@@ -72,3 +73,38 @@ C:\Users\oruc\Documents\GitHub\E_Commerce_Api\E_Commerce_Api\obj\Debug\net7.0\re
 C:\Users\oruc\Documents\GitHub\E_Commerce_Api\E_Commerce_Api\bin\Debug\net7.0\Humanizer.dll
 C:\Users\oruc\Documents\GitHub\E_Commerce_Api\E_Commerce_Api\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\oruc\Documents\GitHub\E_Commerce_Api\E_Commerce_Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+=======
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/bin/Debug/net7.0/appsettings.Development.json
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/bin/Debug/net7.0/appsettings.json
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/bin/Debug/net7.0/E_Commerce_Api
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/bin/Debug/net7.0/E_Commerce_Api.deps.json
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/bin/Debug/net7.0/E_Commerce_Api.runtimeconfig.json
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/bin/Debug/net7.0/E_Commerce_Api.dll
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/bin/Debug/net7.0/E_Commerce_Api.pdb
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/obj/Debug/net7.0/E_Commerce_Api.csproj.AssemblyReference.cache
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/obj/Debug/net7.0/E_Commerce_Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/obj/Debug/net7.0/E_Commerce_Api.AssemblyInfoInputs.cache
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/obj/Debug/net7.0/E_Commerce_Api.AssemblyInfo.cs
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/obj/Debug/net7.0/E_Commerce_Api.csproj.CoreCompileInputs.cache
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/obj/Debug/net7.0/E_Commerce_Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/obj/Debug/net7.0/E_Commerce_Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/obj/Debug/net7.0/staticwebassets/msbuild.E_Commerce_Api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/obj/Debug/net7.0/staticwebassets/msbuild.build.E_Commerce_Api.props
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.E_Commerce_Api.props
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.E_Commerce_Api.props
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/obj/Debug/net7.0/staticwebassets.build.json
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/obj/Debug/net7.0/staticwebassets.development.json
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/obj/Debug/net7.0/scopedcss/bundle/E_Commerce_Api.styles.css
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/obj/Debug/net7.0/E_Commerce_Api.csproj.CopyComplete
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/obj/Debug/net7.0/E_Commerce_Api.dll
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/obj/Debug/net7.0/refint/E_Commerce_Api.dll
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/obj/Debug/net7.0/E_Commerce_Api.pdb
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/obj/Debug/net7.0/E_Commerce_Api.genruntimeconfig.cache
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/obj/Debug/net7.0/ref/E_Commerce_Api.dll
+>>>>>>> Stashed changes

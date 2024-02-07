@@ -1,3 +1,7 @@
 ﻿<Project>
+<<<<<<< Updated upstream
   <Import Project="..\buildMultiTargeting\E_Commerce_Api.props" />
+=======
+  <Import Project="../buildMultiTargeting/E_Commerce_Api.props" />
+>>>>>>> Stashed changes
 </Project>

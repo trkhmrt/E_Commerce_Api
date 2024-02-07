@@ -2,6 +2,7 @@
   "version": 3,
   "targets": {
     "net7.0": {
+<<<<<<< Updated upstream
       "Azure.Core/1.25.0": {
         "type": "package",
         "dependencies": {
@@ -342,6 +343,8 @@
           }
         }
       },
+=======
+>>>>>>> Stashed changes
       "Microsoft.AspNetCore.OpenApi/7.0.15": {
         "type": "package",
         "dependencies": {
@@ -361,6 +364,7 @@
           "Microsoft.AspNetCore.App"
         ]
       },
+<<<<<<< Updated upstream
       "Microsoft.AspNetCore.WebUtilities/2.2.0": {
         "type": "package",
         "dependencies": {
@@ -568,6 +572,8 @@
           "lib/net6.0/_._": {}
         }
       },
+=======
+>>>>>>> Stashed changes
       "Microsoft.Extensions.ApiDescription.Server/6.0.5": {
         "type": "package",
         "build": {
@@ -579,6 +585,7 @@
           "buildMultiTargeting/Microsoft.Extensions.ApiDescription.Server.targets": {}
         }
       },
+<<<<<<< Updated upstream
       "Microsoft.Extensions.Caching.Abstractions/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -1018,6 +1025,8 @@
           "lib/netstandard1.0/_._": {}
         }
       },
+=======
+>>>>>>> Stashed changes
       "Microsoft.OpenApi/1.4.3": {
         "type": "package",
         "compile": {
@@ -1031,6 +1040,7 @@
           }
         }
       },
+<<<<<<< Updated upstream
       "Microsoft.SqlServer.Server/1.0.0": {
         "type": "package",
         "compile": {
@@ -1091,6 +1101,8 @@
           }
         }
       },
+=======
+>>>>>>> Stashed changes
       "Swashbuckle.AspNetCore/6.5.0": {
         "type": "package",
         "dependencies": {
@@ -1153,6 +1165,7 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+<<<<<<< Updated upstream
       },
       "System.Buffers/4.5.0": {
         "type": "package",
@@ -1599,10 +1612,13 @@
             "rid": "win"
           }
         }
+=======
+>>>>>>> Stashed changes
       }
     }
   },
   "libraries": {
+<<<<<<< Updated upstream
     "Azure.Core/1.25.0": {
       "sha512": "X8Dd4sAggS84KScWIjEbFAdt2U1KDolQopTPoHVubG2y3CM54f9l6asVrP5Uy384NWXjsspPYaJgz5xHc+KvTA==",
       "type": "package",
@@ -1879,6 +1895,8 @@
         "microsoft.aspnetcore.identity.entityframeworkcore.nuspec"
       ]
     },
+=======
+>>>>>>> Stashed changes
     "Microsoft.AspNetCore.OpenApi/7.0.15": {
       "sha512": "5AnwJuy7lBaoDhos9SYzLxsGO/s8LsAnP1DR0JSUp1zGzBGnHJEgT4IafAk24PnveKgkiVwh77t5+dU652rwxA==",
       "type": "package",
@@ -1894,6 +1912,7 @@
         "microsoft.aspnetcore.openapi.nuspec"
       ]
     },
+<<<<<<< Updated upstream
     "Microsoft.AspNetCore.WebUtilities/2.2.0": {
       "sha512": "9ErxAAKaDzxXASB/b5uLEkLgUWv1QbeVxyJYEHQwMaxXOeFFVkQxiq8RyfVcifLU7NR0QY0p3acqx4ZpYfhHDg==",
       "type": "package",
@@ -2188,6 +2207,8 @@
         "tools/netcoreapp2.0/any/ef.runtimeconfig.json"
       ]
     },
+=======
+>>>>>>> Stashed changes
     "Microsoft.Extensions.ApiDescription.Server/6.0.5": {
       "sha512": "Ckb5EDBUNJdFWyajfXzUIMRkhf52fHZOQuuZg/oiu8y7zDCVwD0iHhew6MnThjHmevanpxL3f5ci2TtHQEN6bw==",
       "type": "package",
@@ -2419,6 +2440,7 @@
         "tools/netcoreapp2.1/System.Diagnostics.DiagnosticSource.dll"
       ]
     },
+<<<<<<< Updated upstream
     "Microsoft.Extensions.Caching.Abstractions/7.0.0": {
       "sha512": "IeimUd0TNbhB4ded3AbgBLQv2SnsiVugDyGV1MvspQFVlA07nDC7Zul7kcwH5jWN3JiTcp/ySE83AIJo8yfKjg==",
       "type": "package",
@@ -3025,6 +3047,8 @@
         "runtime.json"
       ]
     },
+=======
+>>>>>>> Stashed changes
     "Microsoft.OpenApi/1.4.3": {
       "sha512": "rURwggB+QZYcSVbDr7HSdhw/FELvMlriW10OeOzjPT7pstefMo7IThhtNtDudxbXhW+lj0NfX72Ka5EDsG8x6w==",
       "type": "package",
@@ -3039,6 +3063,7 @@
         "microsoft.openapi.nuspec"
       ]
     },
+<<<<<<< Updated upstream
     "Microsoft.SqlServer.Server/1.0.0": {
       "sha512": "N4KeF3cpcm1PUHym1RmakkzfkEv3GRMyofVv40uXsQhCQeglr2OHNcUk2WOG51AKpGO8ynGpo9M/kFXSzghwug==",
       "type": "package",
@@ -3126,6 +3151,8 @@
         "useSharedDesignerContext.txt"
       ]
     },
+=======
+>>>>>>> Stashed changes
     "Swashbuckle.AspNetCore/6.5.0": {
       "sha512": "FK05XokgjgwlCI6wCT+D4/abtQkL1X1/B9Oas6uIwHFmYrIO9WUD5aLC9IzMs9GnHfUXOtXZ2S43gN1mhs5+aA==",
       "type": "package",
@@ -3215,6 +3242,7 @@
         "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+<<<<<<< Updated upstream
     },
     "System.Buffers/4.5.0": {
       "sha512": "pL2ChpaRRWI/p4LXyy4RgeWlYF2sgfj/pnVMvBqwNFr5cXg7CXNnWZWxrOONLg8VGdFB8oB+EG2Qw4MLgTOe+A==",
@@ -4115,6 +4143,8 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+=======
+>>>>>>> Stashed changes
     }
   },
   "projectFileDependencyGroups": {
@@ -4122,41 +4152,37 @@
       "Microsoft.AspNetCore.Identity >= 2.2.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.26",
       "Microsoft.AspNetCore.OpenApi >= 7.0.15",
+<<<<<<< Updated upstream
       "Microsoft.EntityFrameworkCore >= 7.0.15",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.26",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.15",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.26",
+=======
+>>>>>>> Stashed changes
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\oruc\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/tarikhamarat/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oruc\\Documents\\GitHub\\E_Commerce_Api\\E_Commerce_Api\\E_Commerce_Api.csproj",
+      "projectUniqueName": "/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/E_Commerce_Api.csproj",
       "projectName": "E_Commerce_Api",
-      "projectPath": "C:\\Users\\oruc\\Documents\\GitHub\\E_Commerce_Api\\E_Commerce_Api\\E_Commerce_Api.csproj",
-      "packagesPath": "C:\\Users\\oruc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oruc\\Documents\\GitHub\\E_Commerce_Api\\E_Commerce_Api\\obj\\",
+      "projectPath": "/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/E_Commerce_Api.csproj",
+      "packagesPath": "/Users/tarikhamarat/.nuget/packages/",
+      "outputPath": "/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\oruc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/tarikhamarat/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+        "/usr/local/share/dotnet/library-packs": {},
+        "/usr/local/share/dotnet/sdk/7.0.312/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4187,6 +4213,7 @@
             "target": "Package",
             "version": "[7.0.15, )"
           },
+<<<<<<< Updated upstream
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[7.0.15, )"
@@ -4207,6 +4234,8 @@
             "target": "Package",
             "version": "[6.0.26, )"
           },
+=======
+>>>>>>> Stashed changes
           "Swashbuckle.AspNetCore": {
             "target": "Package",
             "version": "[6.5.0, )"
@@ -4231,7 +4260,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
       }
     }
   }

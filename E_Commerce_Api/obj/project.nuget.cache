@@ -1,9 +1,14 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "+o2/qSHtF6i7dY6EL3yw4gUV+1SYczlUty91MKFFFQ/PBZIJacDvpLWKbaTuT/gS05q/ZgpRnvHthG3Azab+Lw==",
+=======
+  "dgSpecHash": "rzCKKay64Xm7c7bfNGF3lsuG2phmhr8iQwbGaLq1hfiTFp70KIwHtGn1PmxzYlswWHQmBdHbkyAKjerqngDNdQ==",
+>>>>>>> Stashed changes
   "success": true,
-  "projectFilePath": "C:\\Users\\oruc\\Documents\\GitHub\\E_Commerce_Api\\E_Commerce_Api\\E_Commerce_Api.csproj",
+  "projectFilePath": "/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/E_Commerce_Api.csproj",
   "expectedPackageFiles": [
+<<<<<<< Updated upstream
     "C:\\Users\\oruc\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\oruc\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\oruc\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
@@ -96,6 +101,15 @@
     "C:\\Users\\oruc\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
     "C:\\Users\\oruc\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\oruc\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+=======
+    "/Users/tarikhamarat/.nuget/packages/microsoft.aspnetcore.openapi/7.0.15/microsoft.aspnetcore.openapi.7.0.15.nupkg.sha512",
+    "/Users/tarikhamarat/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/tarikhamarat/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/tarikhamarat/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/tarikhamarat/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/tarikhamarat/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/tarikhamarat/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+>>>>>>> Stashed changes
   ],
   "logs": []
 }
