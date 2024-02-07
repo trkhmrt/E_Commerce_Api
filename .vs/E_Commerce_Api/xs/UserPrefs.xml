@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{E3B804F4-25E1-4C3B-8BE5-C42A11F3846A}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.E__Commerce__Api PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/Controllers/WeatherForecastController.cs" relfile="E_Commerce_Api/Controllers/WeatherForecastController.cs" line="24" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="E_Commerce_Api/Concrete/Context.cs">
+    <Files>
+      <File FileName="E_Commerce_Api/Controllers/WeatherForecastController.cs" Line="12" Column="22" />
+      <File FileName="../../../../../usr/local/share/dotnet/sdk/7.0.312/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets" />
+      <File FileName="E_Commerce_Api/appsettings.json" Line="2" Column="3" />
+      <File FileName="E_Commerce_Api/Program.cs" Line="15" Column="1" />
+      <File FileName="E_Commerce_Api/Concrete/Context.cs" Line="12" Column="41" />
+      <File FileName="E_Commerce_Api/Model/User.cs" Line="8" Column="1" />
+      <File FileName="E_Commerce_Api/Properties/launchSettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="E_Commerce_Api">
+            <Node name="E_Commerce_Api">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Concrete" expanded="True">
+                <Node name="Context.cs" selected="True" />
+              </Node>
+              <Node name="Model" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

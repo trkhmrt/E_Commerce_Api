@@ -156,7 +156,6 @@ C:/Users/oruc/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/bin/Debug/net7.0/Mi
 /Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/bin/Debug/net7.0/Azure.Core.dll
 /Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/bin/Debug/net7.0/Azure.Identity.dll
 /Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/bin/Debug/net7.0/Humanizer.dll
-/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 /Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
 /Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
@@ -217,3 +216,6 @@ C:/Users/oruc/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/bin/Debug/net7.0/Mi
 /Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/obj/Debug/net7.0/E_Commerce_Api.csproj.CopyComplete
 /Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/obj/Debug/net7.0/E_Commerce_Api.genruntimeconfig.cache
 /Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/obj/Debug/net7.0/ref/E_Commerce_Api.dll
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/bin/Debug/net7.0/System.CodeDom.dll

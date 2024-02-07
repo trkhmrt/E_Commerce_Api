@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using E_Commerce_Api.Concrete;
+using E_Commerce_Api.Model;
+using Microsoft.AspNetCore.Mvc;
 
 namespace E_Commerce_Api.Controllers;
 
@@ -6,28 +8,25 @@ namespace E_Commerce_Api.Controllers;
 [Route("[controller]")]
 public class WeatherForecastController : ControllerBase
 {
-    private static readonly string[] Summaries = new[]
-    {
-         "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-    };
 
-    private readonly ILogger<WeatherForecastController> _logger;
+    private readonly Context _context;
 
-    public WeatherForecastController(ILogger<WeatherForecastController> logger)
+    public WeatherForecastController(Context context)
     {
-        _logger = logger;
+
+        _context = context;
     }
 
-    [HttpGet(Name = "GetWeatherForecast")]
-    public IEnumerable<WeatherForecast> Get()
+   
+    
+    [HttpGet(Name = "users")]
+    public IEnumerable<User> Get()
     {
-        return Enumerable.Range(1, 5).Select(index => new WeatherForecast
-        {
-            Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-            TemperatureC = Random.Shared.Next(-20, 55),
-            Summary = Summaries[Random.Shared.Next(Summaries.Length)]
-        })
-        .ToArray();
+        
+
+        var user = _context.Users.ToList();
+
+        return user;
     }
 }
 
