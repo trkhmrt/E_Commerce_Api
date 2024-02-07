@@ -1,4 +1,5 @@
-﻿
+﻿using E_Commerce_Api.Concrete;
+using Microsoft.EntityFrameworkCore;
 namespace E_Commerce_Api;
 
 public class Program
@@ -6,6 +7,14 @@ public class Program
     public static void Main(string[] args)
     {
         var builder = WebApplication.CreateBuilder(args);
+
+  
+
+
+        builder.Services.AddDbContext<Context>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("E_Commerce")));
+
+      
+
 
         // Add services to the container.
 
