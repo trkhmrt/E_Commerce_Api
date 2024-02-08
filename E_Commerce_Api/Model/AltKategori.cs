@@ -19,7 +19,15 @@ namespace E_Commerce_Api.Model
 		public Kategori Kategori { get; set; }
 
 
+		/*
+		[ForeignKey(name:"Kategori")]
+        public int KategoriIdenty { get; set; }
 
-	}
+        public Kategori Kategori { get; set; }
+
+		*/
+
+
+    }
 }
 

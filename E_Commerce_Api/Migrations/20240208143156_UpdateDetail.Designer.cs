@@ -3,6 +3,7 @@ using E_Commerce_Api.Concrete;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,10 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace E_Commerce_Api.Migrations
 {
     [DbContext(typeof(Context))]
-    partial class ContextModelSnapshot : ModelSnapshot
+    [Migration("20240208143156_UpdateDetail")]
+    partial class UpdateDetail
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -68,7 +70,13 @@ namespace E_Commerce_Api.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Sepetid"), 1L, 1);
 
+                    b.Property<int>("UrunIdenty")
+                        .HasColumnType("int");
+
                     b.Property<int>("Urunid")
+                        .HasColumnType("int");
+
+                    b.Property<int>("UserIdenty")
                         .HasColumnType("int");
 
                     b.Property<int>("Userid")
@@ -92,6 +100,9 @@ namespace E_Commerce_Api.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Urunid"), 1L, 1);
 
                     b.Property<int>("AltKategoriID")
+                        .HasColumnType("int");
+
+                    b.Property<int>("AltKategoriIdenty")
                         .HasColumnType("int");
 
                     b.Property<decimal>("Fiyat")

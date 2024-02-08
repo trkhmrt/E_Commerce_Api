@@ -12,8 +12,8 @@ namespace E_Commerce_Api.Model
 		public decimal Fiyat { get; set; }
 
 
-
-		public int AltKategoriIdenty { get; set; }
+		
+		public int AltKategoriID { get; set; }
 
 		public virtual AltKategori AltKategori { get; set; }
 

@@ -132,4 +132,3 @@ C:/Users/oruc/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/obj/Debug/net7.0/re
 /Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/obj/Debug/net7.0/E_Commerce_Api.pdb
 /Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/obj/Debug/net7.0/E_Commerce_Api.genruntimeconfig.cache
 /Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/obj/Debug/net7.0/ref/E_Commerce_Api.dll
-/Users/tarikhamarat/Documents/GitHub/E_Commerce_Api/E_Commerce_Api/obj/Debug/net7.0/E_Commerce_Api.sourcelink.json
